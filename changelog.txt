@@ -1,0 +1,5 @@
+SJ ZOO Counter for Admin - Changelog
+
+1.0.1. - first release
+1.1.0. - automatically publish module after install
+1.1.5. - renaming to backend, clean code
